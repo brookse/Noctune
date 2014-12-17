@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\VictoryScript.js">
+    <Files>
+      <File FileName="Assets\Scripts\Button.js" Line="20" Column="1" />
+      <File FileName="Assets\Scripts\Credits.js" Line="4" Column="64" />
+      <File FileName="Assets\Scripts\SongSelectScript.js" Line="27" Column="37" />
+      <File FileName="Assets\Scripts\Note.js" Line="3" Column="1" />
+      <File FileName="Assets\Scripts\OwlBlink.js" Line="32" Column="2" />
+      <File FileName="Assets\Scripts\Play_song.js" Line="39" Column="1" />
+      <File FileName="Assets\Scripts\Play_song2.js" Line="116" Column="2" />
+      <File FileName="Assets\Scripts\Score.js" Line="35" Column="21" />
+      <File FileName="Assets\Scripts\SelectSongScript.js" Line="21" Column="1" />
+      <File FileName="Assets\Scripts\SpaceBarColorChange.js" Line="8" Column="1" />
+      <File FileName="Assets\Scripts\TutorialScript.js" Line="27" Column="22" />
+      <File FileName="Assets\Scripts\VictoryScript.js" Line="23" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

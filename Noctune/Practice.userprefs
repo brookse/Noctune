@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Play_song.js">
+    <Files>
+      <File FileName="Assets\Play_song.js" Line="31" Column="25" />
+      <File FileName="Assets\Button.js" Line="19" Column="19" />
+      <File FileName="Assets\Assets1\SongSelectScript.js" Line="6" Column="24" />
+      <File FileName="Assets\Note.js" Line="1" Column="1" />
+      <File FileName="Assets\SpaceBarColorChange.js" Line="1" Column="1" />
+      <File FileName="Assets\Score.js" Line="21" Column="44" />
+      <File FileName="Assets\Credits.js" Line="8" Column="98" />
+      <File FileName="Assets\VictoryScript.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
